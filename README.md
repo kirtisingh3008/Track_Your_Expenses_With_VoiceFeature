@@ -8,4 +8,4 @@ It is an expense tracker with voice feature which will help you to fill your for
 ![Screenshot (545)](https://user-images.githubusercontent.com/70806481/148187195-118700d8-d79a-4c53-883b-fc3c283c969b.png)
 
 
-## FOR CODE CHECK THE MASTER BRANCH OF THIS REPOSITORY
+
