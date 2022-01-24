@@ -1,0 +1,9 @@
+#root, body , html {
+    height: 100%;;
+    margin: 0;
+}
+
+body{
+    background: url(./Images/bg.jpg);
+    background-size: cover;
+}
